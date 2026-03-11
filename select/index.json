@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "One man live",
+  "base_artist": "Radwimps",
+  "createdAt": "2026-03-11T22:29:39.497664Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Only One Man - Live At Universal Amphitheatre, Los Angeles/1978",
+      "artist": "Donna Summer",
+      "has_synced": false,
+      "path": "select/01_Only_One_Man_-_Live_At_Universal_Amphitheatre,_Los_Angeles_1978_Donna_Summer.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Only One Man (Live)",
+      "artist": "Donna Summer",
+      "has_synced": false,
+      "path": "select/02_Only_One_Man_(Live)_Donna_Summer.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Hanabi - one-man live tour 2018 \"cocoon\" tour final",
+      "artist": "androp",
+      "has_synced": false,
+      "path": "select/03_Hanabi_-_one-man_live_tour_2018__cocoon__tour_final_androp.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Hanabi (one-man live tour 2018 “cocoon” tour final)",
+      "artist": "androp",
+      "has_synced": false,
+      "path": "select/04_Hanabi_(one-man_live_tour_2018_“cocoon”_tour_final)_androp.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Sorry - one-man live tour 2018 \"cocoon\" tour final",
+      "artist": "androp",
+      "has_synced": false,
+      "path": "select/05_Sorry_-_one-man_live_tour_2018__cocoon__tour_final_androp.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "よふかしのうた (Creepy Nuts One Man Live『かつて天才だった俺たちへ』日本武道館公演 Day2)",
+      "artist": "Creepy Nuts",
+      "has_synced": true,
+      "path": "select/06_よふかしのうた_(Creepy_Nuts_One_Man_Live『かつて天才だった俺たちへ』日本武道館公演_Day2)_Creepy_Nuts.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "One Man Live",
+      "artist": "RADWIMPS",
+      "has_synced": true,
+      "path": "select/07_One_Man_Live_RADWIMPS.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "One man live",
+      "artist": "RADWIMPS",
+      "has_synced": true,
+      "path": "select/08_One_man_live_RADWIMPS.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Hanabi (one-man live tour 2018 \"cocoon\" tour final)",
+      "artist": "androp",
+      "has_synced": false,
+      "path": "select/09_Hanabi_(one-man_live_tour_2018__cocoon__tour_final)_androp.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Sorry (one-man live tour 2018 \"cocoon\" tour final)",
+      "artist": "androp",
+      "has_synced": false,
+      "path": "select/10_Sorry_(one-man_live_tour_2018__cocoon__tour_final)_androp.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "One Man (Live)",
+      "artist": "Crystal Lewis",
+      "has_synced": false,
+      "path": "select/11_One_Man_(Live)_Crystal_Lewis.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "One Man Live",
+      "artist": "RADWIMPS",
+      "has_synced": true,
+      "path": "select/12_One_Man_Live_RADWIMPS.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "vanilla sky from 1st one man live lycoris",
+      "artist": "綾野ましろ",
+      "has_synced": true,
+      "path": "select/13_vanilla_sky_from_1st_one_man_live_lycoris_綾野ましろ.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Ideal White from 1st one man live lycorisal (Live)",
+      "artist": "Mashiro Ayano",
+      "has_synced": true,
+      "path": "select/14_Ideal_White_from_1st_one_man_live_lycorisal_(Live)_Mashiro_Ayano.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "ideal white from 1st one man live lycoris",
+      "artist": "綾野ましろ",
+      "has_synced": false,
+      "path": "select/15_ideal_white_from_1st_one_man_live_lycoris_綾野ましろ.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "One man live「www.jpopsingles.eu」",
+      "artist": "RADWIMPS",
+      "has_synced": true,
+      "path": "select/16_One_man_live「www.jpopsingles.eu」_RADWIMPS.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "One man live",
+      "artist": "RADWIMPS",
+      "has_synced": false,
+      "path": "select/pl_01_One_man_live_RADWIMPS.txt"
+    }
+  ]
+}
